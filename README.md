@@ -60,7 +60,7 @@ Poetry is a powerful medium for human expression, often revolving around deep th
 - **Poetry Foundation Dataset:** [Hugging Face](https://huggingface.co/datasets/suayptalha/Poetry-Foundation-Poems)
 - **Gutenberg Poetry Corpus:** [GitHub](https://github.com/aparrish/gutenberg-poetry-corpus)
 - **Kaggle Poems Dataset:** [Kaggle](https://www.kaggle.com/datasets/michaelarman/poemsdataset)
-- **All Modified Datasets:**[Google Drive](https://drive.google.com/drive/folders/1NbCQJdy23gxLhnDklWxrcZOLnRhR3TNx?usp=sharing)
+- **All Modified Datasets:** [Google Drive](https://drive.google.com/drive/folders/1NbCQJdy23gxLhnDklWxrcZOLnRhR3TNx?usp=sharing)
 
 ---
 
@@ -122,5 +122,8 @@ Poetry is a powerful medium for human expression, often revolving around deep th
 - **Thematic Coherence:** ~83% (classifier accuracy on generated poems)
 
 **Sample Output:**
+
+![image](https://github.com/user-attachments/assets/d603afb2-b52e-44ba-bb99-f371cc10d917)
+![image](https://github.com/user-attachments/assets/fbf5cb18-d09a-448d-835f-0fa50ed58069)
 
 
