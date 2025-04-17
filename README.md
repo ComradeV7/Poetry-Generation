@@ -1,6 +1,7 @@
 # AI Poetry Generation System
 
 A theme-aware poetry generation system that combines a BERT-based multi-label theme classifier with a fine-tuned GPT-2 language model to generate semantically relevant, stylistically coherent poetry conditioned on user-selected or inferred themes.
+**Project Folder: **[Google Drive](https://drive.google.com/drive/folders/1lvsN7-inGd2MSZeD54cEpRGRCwuCQ3zT?usp=sharing)
 
 ---
 
